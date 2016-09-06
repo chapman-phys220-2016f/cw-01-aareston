@@ -20,6 +20,8 @@ Analyze in this section what you found useful about this assignment in your own 
 
 I found learning LaTeX through trial and error to be a bit frustrating, yet rewarding when I started to grasp it. I also found getting thrown back into coding to be an efficient way of relearning the skill.
 
+There was a definite learning curve for the git system which was demoralizing at first. After overcoming that, I feel much more confident. 
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
