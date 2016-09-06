@@ -1,0 +1,49 @@
+\documentclass[aps,pra,notitlepage,amsmath,amssymb,letterpaper,12pt]{revtex4-1}
+\usepackage{amsthm}
+\usepackage{graphicx}
+ 
+%  Helpful commands to set up problem environments easily
+\newenvironment{problem}[2][Problem]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\newenvironment{solution}{\begin{proof}[Solution]}{\end{proof}}
+ 
+% --------------------------------------------------------------
+%                   Document Begins Here
+% --------------------------------------------------------------
+ 
+\begin{document}
+ 
+\title{Definition of the Derivative of a Function}
+\author{Aaron Grisez and Preston Kamada}
+\affiliation{PHYS 220 -- Scientific Computing I}
+\date{\today}
+
+\maketitle
+
+% x.yz is the problem number
+\begin{problem}{1} 
+Defining Derivatives.
+\end{problem}
+ 
+\begin{solution} %You can also use solution in place of proof.
+The derivative of f, denoted f', is the slope of the curve, y = f(x),
+\linebreak that changes over time with respect to x:
+% Use align environments for equations.  align* removes equation numbers
+\begin{align}
+\frac{d}{{dx}}f\left( x \right) = \mathop {\lim }\limits_{h \to 0} \frac{{f\left( {x + h } \right) - f\left( x \right)}}{h}
+\end{align}
+
+
+\begin{figure}[h!] % h forces the figure to be placed here, in the text
+  \includegraphics[width=0.4\textwidth]{derivatives.png}  % if pdflatex is used, jpg, pdf, and png are permitted
+  \caption{Graph depicting line tangent to slope (instantaneous rate of change).}
+  \label{fig:figlabel}
+\end{figure}
+
+The derivative of a function is synonymous to the slope of the function. We use limits to define the derivative of a function because the limit at which our independent variable becomes infinitesimally closer to a designated point, the slope, or tangent line to the graph, of the function will near the slope of the point. Derivatives are important for analyzing the change in the function at any given point on the line.
+\end{solution}
+ 
+% Repeat as needed
+ 
+ 
+\end{document}
