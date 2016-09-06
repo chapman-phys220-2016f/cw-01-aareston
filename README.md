@@ -18,7 +18,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+I found learning LaTeX through trial and error to be a bit frustrating, yet rewarding when I started to grasp it. I also found getting thrown back into coding to be an efficient way of relearning the skill.
 
 ## Honor Pledge
 
@@ -29,4 +29,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Aaron Grisez
+Preston S Kamada
