@@ -22,6 +22,9 @@ I found learning LaTeX through trial and error to be a bit frustrating, yet rewa
 
 There was a definite learning curve for the git system which was demoralizing at first. After overcoming that, I feel much more confident. 
 
+_INSTRUCTOR COMMENT:_
+_Make sure the "I" is actually a "we" here. It's useful to hear from everyone in the group. Feel free to add constructive suggestions for how to improve the assignment in the future._
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
