@@ -9,3 +9,15 @@ do
 done
 cd ..
 echo ALL done
+
+### INSTRUCTOR COMMENTS ###
+# Very nice. For an alternative approach, check out
+#    touch file{001..100}.tmp
+# However, seq is more flexible and useful to know.
+#
+# Also note that often you will see the construction:
+#    CWD=$(pwd)
+#    cd somewhere else
+#    <code here>
+#    cd $CWD
+############################
